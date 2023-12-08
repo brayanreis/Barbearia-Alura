@@ -1,6 +1,6 @@
-body {
-    text-align: center;
+.principal{
     background-color: gray;
+    padding: 30px;
 }
 
 .negrito {
@@ -18,4 +18,9 @@ body {
 
 .imagensbeneficios {
     width: 50%;
+}
+
+.titulocentralizado {
+    text-align-last: center;
+    
 }
